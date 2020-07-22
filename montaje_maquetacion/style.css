@@ -1,0 +1,43 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.encabezado{
+    margin-bottom: 70px;
+}
+
+.encabezado_container_logo{
+    margin: 50px;
+}
+
+.encabezado_container_title{
+    font-weight: bold;
+}
+
+.encabezado_container_info{
+    margin-top: 20px;
+    color: #9B999A;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.registro_container{
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 40px;
+    padding: 30px;
+    -webkit-box-shadow: 10px 7px 24px 5px rgba(0,0,0,0.22);
+    -moz-box-shadow: 10px 7px 24px 5px rgba(0,0,0,0.22);
+    box-shadow: 10px 7px 24px 5px rgba(0,0,0,0.22);
+}
+
+.button{
+    background-color: #E03B65;
+    border-radius: 30px;
+    border: none;
+    height: 50px;
+    width: 150px;
+    color: white;
+}
